@@ -15,4 +15,4 @@ The goal of this project is to create a simple and attractive e-commerce experie
 ## 🚀 How to Run the Project
 1. Download or clone the repository:
    `bash
-   git clone https://github.com/yourusername/M-Shopping.git
+git clone : (https://maryamfariwar.github.io/final-project-/)
